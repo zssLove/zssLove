@@ -136,35 +136,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
-
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- just img -->
 <div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
