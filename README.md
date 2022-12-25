@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://www.loveketang.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://blog.csdn.net/qq_36982349?type=lately/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=zssLove" alt="访客统计" />
 </div>
