@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.loveketang.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=;欢迎来到菜鸟的Github!&center=true&size=27">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到菜鸟的Github!;欢迎来到菜鸟的Github!&center=true&size=27">
+  </a
 </h1>
 
 
