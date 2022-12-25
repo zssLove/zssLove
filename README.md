@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![zssLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=zssLove)](https://github.com/anuraghazra/github-readme-stats)
-
-![zssLove's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zssLove&layout=compact&hide_border=true&langs_count=10)
 
 <!-- 动态打字效果 -->
 <h1 align="center">
@@ -25,6 +22,10 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到周帅帅的github!&center=true&size=27">
   </a>
 </h1>
+
+[![zssLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=zssLove)](https://github.com/anuraghazra/github-readme-stats)
+
+![zssLove's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zssLove&layout=compact&hide_border=true&langs_count=10)
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
@@ -92,17 +93,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<!-- Gif -->
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-</div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
