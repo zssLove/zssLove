@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 #  🙋 Hello
 
 <!-- 比较好的开源项目卡片 -->
-[![zssLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=zssLove)](https://github.com/anuraghazra/github-readme-stats)
+[![zssLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=zssLove&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![zssLove's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zssLove&layout=compact&hide_border=true&langs_count=10)
 
 💪 正在学习: 
