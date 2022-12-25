@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Vue2](https://img.shields.io/badge/-Vue2-oringe?style=flat-square&logo=vue2)
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=blue&prefix=<PREFIX>&suffix=<SUFFIX>
+![Vue2](https://shields.io/badge/-yellowgreen-yellowgreen)
+
+
 
 🧠 计划学习:
 
