@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 &emsp;&emsp;
 ![Vue3](https://shields.io/badge/-Vue3-success&logo=Vue3)
-![Vite](https://shields.io/badge/-Vite-Vite)
+![Vite](https://shields.io/badge/-Vite-important)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
