@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Vue2](https://img.shields.io/badge/-Vue2-oringe?style=flat-square&logo=vue2)
-![Vue2](https://shields.io/badge/-yellowgreen-yellowgreen)
 
 
 
@@ -56,6 +55,7 @@ Here are some ideas to get you started:
 
 &emsp;&emsp;
 ![Vue3](https://shields.io/badge/-Vue3-success&logo=Vue3)
+![Vite](https://shields.io/badge/-important-important&logo=Vite)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 
