@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.loveketang.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到周帅帅的github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到菜鸟的Github!&center=true&size=27">
   </a>
 </h1>
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![Vue2](https://img.shields.io/badge/-Vue-oringe?style=flat-square&logo=vue2)
+![Vue2](https://img.shields.io/badge/-Vue2-oringe?style=flat-square&logo=vue2)
 
 🧠 计划学习:
 
