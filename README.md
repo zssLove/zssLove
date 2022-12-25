@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-[![zssLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=zssLove)](https://github.com/anuraghazra/github-readme-stats)
-
-![zssLove's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zssLove&layout=compact&hide_border=true&langs_count=10)
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
@@ -51,10 +48,8 @@ Here are some ideas to get you started:
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+[![zssLove's GitHub stats](https://github-readme-stats.vercel.app/api?username=zssLove)](https://github.com/anuraghazra/github-readme-stats)
+![zssLove's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zssLove&layout=compact&hide_border=true&langs_count=10)
 </div>
 
 💪 正在学习: 
